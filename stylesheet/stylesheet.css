@@ -1,0 +1,28 @@
+body{
+	width: 98%;
+	margin: 0 1% 0 1%;
+}
+
+div#menu{
+	margin: 0 1% 0 30%;
+	padding: 1% 1% 1% 1%;
+	background-color: rgb(244,213,130);
+	-webkit-border-bottom-right-radius: 10px; 	-webkit-border-bottom-left-radius: 90px; 	-moz-border-radius-bottomright: 10px; 	-moz-border-radius-bottomleft: 90px; border-bottom-right-radius: 10px; border-bottom-left-radius: 90px;
+}
+
+nav{
+	display: inline-block;
+	color: rgb(000,000,000);
+	font-size: 1.2em;
+	text-align: right;
+	margin: 0 1% 1% 5%; 
+}
+
+nav.button-onpage:hover{
+	color: rgb(000,000,000);
+}
+
+div.top{
+	height: 250px;
+	background-image: url("img/background-top.png") repeat-x;;
+}
